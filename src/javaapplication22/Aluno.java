@@ -12,10 +12,6 @@ public class Aluno {
         this.n2 = n2;
     }
 
-    Aluno() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
     public int getRa() {
         return ra;
     }
